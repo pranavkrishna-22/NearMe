@@ -150,13 +150,10 @@ kasi theatre.html
 
 ## OUTPUT
 
-![alt text](image-2.png)
-![alt text](image-1.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-
-
-
+![alt text](<Screenshot 2025-04-23 030337.png>)
+![alt text](<Screenshot 2025-04-23 030122.png>)
+![alt text](<Screenshot 2025-04-23 030357.png>)
+![alt text](<Screenshot 2025-04-23 030415.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
